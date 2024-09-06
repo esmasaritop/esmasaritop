@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esma Sarıtop</h1>
-<h3 align="center">Hello, I am Esma. I am a software engineering student at Fırat University. I am working as iOS mobile application developer. I will be sharing my projects here.</h3>
+<h3 align="center">Hello, I am Esma. I am a software engineering student at Fırat University. I am working as Web developer. I will be sharing my projects here.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
